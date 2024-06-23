@@ -23,7 +23,7 @@ Welcome to my github profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gauravwarad)](https://git.io/streak-stats)
 
 
-### :fire: My Stats :
+### :fire: And some more stats :
 [![Top Langs](https://github-readme-stats-sage-chi.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
