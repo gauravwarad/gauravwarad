@@ -26,7 +26,7 @@ Welcome to my github profile.
 ### :fire: And some more stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+P.S. my best work is not on github. (hint: NDA)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=gauravwarad&style=flat-square&color=blue" alt=""/>
