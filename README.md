@@ -19,14 +19,11 @@ Welcome to my github profile.
   
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravwarad)](https://git.io/streak-stats)
 
-
-### :fire: And some more stats :
+### :fire: some stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-P.S. my best work is not on github. (hint: NDA)
+P.S. my best work is not on github. (because of NDA)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=gauravwarad&style=flat-square&color=blue" alt=""/>
