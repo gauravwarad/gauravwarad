@@ -1,6 +1,5 @@
 
-Hi, I'm Gaurav.
-Welcome to my github profile.
+ Hi, I’m Gaurav. My hobbies include dreaming up apps, buying domains, and ghosting my own ideas.
 
 
 <div id="header" align="center">
@@ -23,7 +22,7 @@ Welcome to my github profile.
 ### :fire: some stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-P.S. my best work is not on github. (because of NDA)
+ P.S. If my GitHub looks quiet, it’s because my best work lives in top-secret codebases. (Shh, NDA.)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=gauravwarad&style=flat-square&color=blue" alt=""/>
