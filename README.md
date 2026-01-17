@@ -1,5 +1,5 @@
 
- Hi, I’m Gaurav. My hobbies include dreaming up apps, buying domains, and ghosting my own ideas.
+ Hi, I’m Gaurav. My hobbies include dreaming up apps, buying domains, and ghosting them.
 
 
 <div id="header" align="center">
@@ -20,9 +20,15 @@
 
 
 ### :fire: some stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- P.S. If my GitHub looks quiet, it’s because my best work lives in top-secret codebases. (Shh, NDA.)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gauravwarad&layout=compact&theme=vision-friendly-dark)
+
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gaurava_codes?theme=dark&ext=heatmap)
+
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=gauravwarad&style=flat-square&color=blue" alt=""/>
